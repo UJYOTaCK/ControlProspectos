@@ -1,0 +1,25 @@
+C:\Desarrollo\Prospectos\ControlProspectos\ControlProspectos\obj\Debug\ControlProspectos.Properties.Resources.resources
+C:\Desarrollo\Prospectos\ControlProspectos\ControlProspectos\obj\Debug\ControlProspectos.UI.Catalogos.frmProspectos.resources
+C:\Desarrollo\Prospectos\ControlProspectos\ControlProspectos\obj\Debug\ControlProspectos.UI.Menu.MenuPrincipal.resources
+C:\Desarrollo\Prospectos\ControlProspectos\ControlProspectos\obj\Debug\ControlProspectos.csproj.GenerateResource.cache
+C:\Desarrollo\Prospectos\ControlProspectos\ControlProspectos\obj\Debug\ControlProspectos.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Prospectos\ControlProspectos\ControlProspectos\bin\Debug\ControlProspectos.exe.config
+C:\Desarrollo\Prospectos\ControlProspectos\ControlProspectos\bin\Debug\ControlProspectos.exe
+C:\Desarrollo\Prospectos\ControlProspectos\ControlProspectos\bin\Debug\ControlProspectos.pdb
+C:\Desarrollo\Prospectos\ControlProspectos\ControlProspectos\obj\Debug\ControlProspectos.exe
+C:\Desarrollo\Prospectos\ControlProspectos\ControlProspectos\obj\Debug\ControlProspectos.pdb
+C:\Desarrollo\Prospectos\ControlProspectos\ControlProspectos\obj\Debug\ControlProspectos.UI.Catalogos.frmMonitorProspectos.resources
+C:\Desarrollo\Prospectos\ControlProspectos\ControlProspectos\obj\Debug\ControlProspectos.UI.Catalogos.frmObservaciones.resources
+C:\Users\alien\Downloads\ControlProspectos (2)\ControlProspectos\ControlProspectos\bin\Debug\ControlProspectos.exe.config
+C:\Users\alien\Downloads\ControlProspectos (2)\ControlProspectos\ControlProspectos\bin\Debug\ControlProspectos.exe
+C:\Users\alien\Downloads\ControlProspectos (2)\ControlProspectos\ControlProspectos\bin\Debug\ControlProspectos.pdb
+C:\Users\alien\Downloads\ControlProspectos (2)\ControlProspectos\ControlProspectos\obj\Debug\ControlProspectos.csproj.AssemblyReference.cache
+C:\Users\alien\Downloads\ControlProspectos (2)\ControlProspectos\ControlProspectos\obj\Debug\ControlProspectos.Properties.Resources.resources
+C:\Users\alien\Downloads\ControlProspectos (2)\ControlProspectos\ControlProspectos\obj\Debug\ControlProspectos.UI.Catalogos.frmMonitorProspectos.resources
+C:\Users\alien\Downloads\ControlProspectos (2)\ControlProspectos\ControlProspectos\obj\Debug\ControlProspectos.UI.Catalogos.frmObservaciones.resources
+C:\Users\alien\Downloads\ControlProspectos (2)\ControlProspectos\ControlProspectos\obj\Debug\ControlProspectos.UI.Catalogos.frmProspectos.resources
+C:\Users\alien\Downloads\ControlProspectos (2)\ControlProspectos\ControlProspectos\obj\Debug\ControlProspectos.UI.Menu.MenuPrincipal.resources
+C:\Users\alien\Downloads\ControlProspectos (2)\ControlProspectos\ControlProspectos\obj\Debug\ControlProspectos.csproj.GenerateResource.cache
+C:\Users\alien\Downloads\ControlProspectos (2)\ControlProspectos\ControlProspectos\obj\Debug\ControlProspectos.csproj.CoreCompileInputs.cache
+C:\Users\alien\Downloads\ControlProspectos (2)\ControlProspectos\ControlProspectos\obj\Debug\ControlProspectos.exe
+C:\Users\alien\Downloads\ControlProspectos (2)\ControlProspectos\ControlProspectos\obj\Debug\ControlProspectos.pdb
